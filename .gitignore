@@ -18,5 +18,5 @@ DerivedData
 .idea/
 # Pods - for those of you who use CocoaPods
 Pods
-DeviceInfoDemo.xcodeproj/project.xcworkspace/
-DeviceInfoDemo.xcodeproj/xcuserdata/
+DeviceInfoDemo.xcodeproj/project.xcworkspace/*
+DeviceInfoDemo.xcodeproj/xcuserdata/*
